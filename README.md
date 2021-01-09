@@ -1,1 +1,0 @@
-# OSLA-agent-in-Pommerman
